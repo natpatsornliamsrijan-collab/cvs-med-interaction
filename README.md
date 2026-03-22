@@ -1,4 +1,4 @@
-# cvs-med-interaction
+# CVS-Med-Interaction
 
 ## Overview
 This is a command-line interface (CLI) application designed to identify potential interactions between cardiovascular medications (Heart Medications) and various dietary supplements or food items. The program leverages structured clinical data to provide reliable safety insights for healthcare providers and patients.
