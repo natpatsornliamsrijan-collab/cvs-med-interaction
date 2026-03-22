@@ -4,13 +4,13 @@
 This is a command-line interface (CLI) application designed to identify potential interactions between cardiovascular medications (Heart Medications) and various dietary supplements or food items. The program leverages structured clinical data to provide reliable safety insights for healthcare providers and patients.
 
 ## Purpose
-Managing heart health often involves complex medication regimens. Many supplements can interfere with these drugs, leading to significant clinical risks:
-* **Increased Bleeding Risk:** Potentiating the effect of anticoagulants.
-* **Hypotension:** Causing unintended or dangerous drops in blood pressure.
-* **Reduced Efficacy:** Decreasing the drug's therapeutic effect, leading to treatment failure.
+Managing heart health often involves multiple medications. Some supplements can interfere with these drugs, causing risks such as bleeding, low blood pressure, or reduced treatment effect.
 
-This tool helps users identify these risks, understand severity levels, and access evidence-based explanations.
+Cardiovascular diseases are the most common type of noncommunicable diseases (NCDs). According to the World Health Organization (WHO), they are the leading cause of death worldwide.
 
+Because many patients require long-term treatment and often use supplements, this tool helps identify potential interactions and support safer medication use.
+
+For this reason, this project focuses on cardiovascular drugs to support safer medication use.
 ---
 
 ## Core Features
@@ -42,6 +42,8 @@ Interactions are analyzed based on their physiological impact:
 
 ## Data Sources
 The logic and interaction database are based on the following clinical references:
+* **World Health Organization (WHO) (2025): Noncommunicable diseases – global data and statistics on prevalence and mortality.
+* **World Health Organization (WHO) (2025): Cardiovascular diseases (CVDs) – leading cause of death globally (~19–20 million deaths per year).
 * **Kanji et al. (2012):** Systematic review on supplement–cardiovascular drug interactions.
 * **Tan et al. (2020):** Systematic review on Warfarin and food/herbal interactions.
 * **American Heart Association (AHA):** Standards for drug classification.
